@@ -4,10 +4,10 @@
       "rich-text"
     ]
   },
-  " rich-text " : {
-    " adereços " : {
-      " text " : " **  Hello, World!  ** " ,
-      " textPosition " : " RIGH "
+  "rich-text" : {
+    "props" : {
+      " text " : "**Hello, World!**",
+      " textPosition " : "RIGHT"
    }
  }
 }
