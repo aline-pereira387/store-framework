@@ -1,7 +1,13 @@
 {
   "store.home": { 
     "blocks": [
-      
+      "rich-text"
     ]
-  }
+  },
+  " rich-text " : {
+    " adereços " : {
+      " text " : " **  Hello, World!  ** " ,
+      " textPosition " : " RIGHT "
+   }
+ }
 }
