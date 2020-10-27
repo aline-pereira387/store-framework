@@ -19,6 +19,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
+      "blockClass": "vintage"
     }
   },
   "info-card#button-left": {
@@ -32,6 +33,7 @@
       "callToActionText": "Go to Collection",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
+      "blockClass": "metal"
     }
   }
 }
