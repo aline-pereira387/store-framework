@@ -61,10 +61,7 @@
   },
   
   "flex-layout.col": {
-    "children": [
-      "image#electronics",
-      "image#major-appliance"
-    ]
+    "children": ["image#electronics", "image#major-appliance"]
   },
   "image#electronics": {
     "props": {
